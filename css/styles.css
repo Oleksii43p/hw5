@@ -533,7 +533,6 @@ input::placeholder {
 
 .footer-btn {
   display: flex;
-  gap: 16px;
   align-items: center;
   justify-content: center;
   flex-direction: row;
